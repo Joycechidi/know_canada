@@ -1,0 +1,88 @@
+[
+    {
+        "1": "All these are your responsibilities as a Canadian except",
+        "2": "Which of these is not included in 'The Great Charter of Freedoms'?",
+        "3": "'Habeas corpus' means the right to ...",
+        "4": "When was The Constitution of Canada was amended to entrench\nthe Canadian Charter of Rights and Freedoms?",
+        "5": "One of these is not among the most important Rights in the Charter of Rights and Freedom?",
+        "6": "One of these is not a source of Canadian law",
+        "7": "The Magna Carta is also known as ...",
+        "8": "Which of these is not part of the Mobility Rights?",
+        "9": "Taking responsibility for oneself and one's family means all these except",
+        "10": "Is it optional for Canadians to serve on a jury when called to do so?"
+    },
+    {
+        "1": {
+            "a": "Obeying the law",
+            "b": "Taking responsibility of yourself and your family",
+            "c": "Serving on a jury",
+            "d": "Visiting your neighbor"
+        },
+        "2": {
+            "a": "Freedom of conscience and religion",
+            "b": "Freedom of thought, belief, opinion and expression,\nincluding freedom of speech and of the press;",
+            "c": "Freedom of peaceful assembly",
+            "d": "Freedom of movement"
+        },
+        "3": {
+            "a": "Challenge unlawful detection by the state",
+            "b": "Speak freely",
+            "c": "Live and work anywhere in Canada",
+            "d": "Use the health care system"
+        },
+        "4": {
+            "a": "1967",
+            "b": "1867",
+            "c": "1982",
+            "d": "1900"
+        },
+        "5": {
+            "a": "Mobility Rights",
+            "b": "Aboriginal Peoples’ Rights",
+            "c": "Official Language Rights and\nMinority Language Educational Rights",
+            "d": "Family Rights"
+        },
+        "6": {
+            "a": "English common law",
+            "b": "The civil code of France",
+            "c": "The unwritten constitution that\nwe have inherited from Great Britain",
+            "d": "The crown law"
+        },
+        "7": {
+            "a": "The Great Charter of Rights",
+            "b": "The Great Charter of Freedoms",
+            "c": "Book of Freedoms",
+            "d": "Book of Democracy"
+        },
+        "8": {
+            "a": "Canadians can live and work anywhere\nthey choose in Canada",
+            "b": "Enter and leave the country freely",
+            "c": "Apply for a passport",
+            "d": "Travel within Canada without\nbeing stopped by the Police"
+        },
+        "9": {
+            "a": "Getting a job",
+            "b": "Taking care of one's family",
+            "c": "Working hard in keeping one's abilities",
+            "d": "Paying your bills"
+        },
+        "10": {
+            "a": "No, it is legally required to serve",
+            "b": "Yes, you can opt out",
+            "c": "Yes, the Charter of Rights allows you to decline",
+            "d": "Yes, you can defer it "
+        }
+    },
+    {
+        "1": "Visiting your neighbor",
+        "2": "Freedom of movement",
+        "3": "Challenge unlawful detection by the state",
+        "4": "1982",
+        "5": "Family Rights",
+        "6": "The crown law",
+        "7": "The Great Charter of\nFreedoms",
+        "8": "Travel within Canada without\nbeing stopped by the Police",
+        "9": "Paying your bills",
+        "10": "No, it is legally required to serve"
+    }
+]

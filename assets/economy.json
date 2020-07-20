@@ -1,0 +1,88 @@
+[
+    {
+        "1": "Whose portrait is on the $5 bill?",
+        "2": "Canada's economy includes three main types of industries except one of theses?",
+        "3": "Which country is Canada's largest trading partner?",
+        "4": "Which province is home to Canada's largest naval base?",
+        "5": "Canada's largest producer of hydro-electricity is ...?",
+        "6": "In Canadian visual arts, which group of artists developed\na style of painting to capture the rugged wildness landscapes?",
+        "7": "Which of these regions has more than half of Canadian population\nliving in it and produce more than three-quarters\nof all Canadian manufactured goods are?",
+        "8": "Respectively, the official summer and winter sports of Canada are  ...?",
+        "9": "These two Canadians invented the first electric light bulb and\nlater sold the patent to Thomas Edison who,\nmore famously commercialized the light bulb?",
+        "10": "The Canada and Quebec Pension Plans were devised in what year?"
+    },
+    {
+        "1": {
+            "a": "Sir Robert Laird Borden",
+            "b": "Viola Desmond",
+            "c": "Queen Elizabeth II",
+            "d": "Sir Wilfrid Laurier"
+        },
+        "2": {
+            "a": "Service industries",
+            "b": "Manufacturing industries",
+            "c": "Natural resources industries",
+            "d": "Health care industries"
+        },
+        "3": {
+            "a": "China",
+            "b": "United Kingdom",
+            "c": "United States of America",
+            "d": "Mexico"
+        },
+        "4": {
+            "a": "Ontario",
+            "b": "Quebec",
+            "c": "Nova Scotia",
+            "d": "New Brunswick"
+        },
+        "5": {
+            "a": "Quebec",
+            "b": "British Columbia",
+            "c": "Ontario",
+            "d": "New Foundland and Labrado"
+        },
+        "6": {
+            "a": "The 5 Eyes",
+            "b": "The Group of Seven",
+            "c": "The Special Artists",
+            "d": "Les Automatistes"
+        },
+        "7": {
+            "a": "Prairie provinces: Alberta, Saskatchewan, Manitoba",
+            "b": "Central Canada: Ontario and Quebec",
+            "c": "West Coast: British Columbia, ",
+            "d": "Northern Territories: Yukon, Northwest Territories, Nunavut"
+        },
+        "8": {
+            "a": "Soccer and Hockey",
+            "b": "Basketball and Hockey",
+            "c": "Lacrosse and Hockey",
+            "d": "Basketball and Curling"
+        },
+        "9": {
+            "a": "Alexander Graham Bell and John MacDonald",
+            "b": "Matthew Evans and Henry Woodward",
+            "c": "Joseph-Armand Bombardier and Sir Sandford Fleming",
+            "d": "Mike Lazaridis and Jim Balsillie"
+        },
+        "10": {
+            "a": "1965",
+            "b": "1927",
+            "c": "1940",
+            "d": "1867"
+        }
+    },
+    {
+        "1": "Sir Wilfrid Laurier",
+        "2": "Health care industries",
+        "3": "United States of America",
+        "4": "Nova Scotia",
+        "5": "Quebec",
+        "6": "The Group of Seven",
+        "7": "Central Canada: Ontario and Quebec",
+        "8": "Lacrosse and Hockey",
+        "9": "Matthew Evans and Henry Woodward",
+        "10": "1965"
+    }
+]

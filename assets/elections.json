@@ -1,0 +1,88 @@
+[
+  {
+    "1": "Canada's original constitutional document is called?",
+    "2": "Who are the three founding peoples of Canada?",
+    "3": "The name of the party representing Her Majesty's Loyal Opposition is",
+    "4": "The American attempt to conquer Canada failed in?",
+    "5": "When do we say the party in power is a Majority Government?",
+    "6": "Alberta and Saskatchewan became Canadian Provinces in the year?",
+    "7": "Who can vote in Canadian elections?",
+    "8": "How is the Senate formed?",
+    "9": "How many electoral districts does Canada have as of 2020?",
+    "10": "Which day must the federal elections be held?"
+  },
+  {
+    "1": {
+      "a": "Canadian Act",
+      "b": "British North America Act",
+      "c": "Canadian Constitution",
+      "d": "North American Act"
+    },
+    "2": {
+      "a": "First Nations, Metis and British",
+      "b": "Metis, French and British",
+      "c": "Aboriginal, French and British",
+      "d": "English, French and Inuit"
+    },
+    "3": {
+      "a": "New Democratic Party",
+      "b": "Liberal Party of Canada",
+      "c": "Conservative Party of Canada",
+      "d": "Green Party of Canada"
+    },
+    "4": {
+      "a": "1814",
+      "b": "1867",
+      "c": "1900",
+      "d": "1967"
+    },
+    "5": {
+      "a": "When they holds 100 seats in the House of Commons",
+      "b": "When they at least half of the seats in the House of Commons",
+      "c": "When they at least half of the seats in the Senate",
+      "d": "When they hold 75% of the seats in the House of Commons"
+    },
+    "6": {
+      "a": "1867",
+      "b": "1871",
+      "c": "1905",
+      "d": "1898"
+    },
+    "7": {
+      "a": "Citizens and residents over the age of 18",
+      "b": "Every citizen over the age of 18",
+      "c": "All adults between the age of 18 and 65",
+      "d": "All Canadian citizens"
+    },
+    "8": {
+      "a": "Elected by the citizens",
+      "b": "Appointed on the Prime Minister's recommendation",
+      "c": "Appointed by the Queen",
+      "d": "Appointed by the Governor General"
+    },
+    "9": {
+      "a": "338",
+      "b": "771",
+      "c": "10",
+      "d": "153"
+    },
+    "10": {
+      "a": "July 1 every 4 years",
+      "b": "First Friday in September every 4 years",
+      "c": "Third Monday in October every 4years\nfollowing the most recent general election",
+      "d": "April 1st every 4 years"
+    }
+  },
+  {
+    "1": "British North America Act",
+    "2": "Aboriginal, French and British",
+    "3": "Conservative Party of Canada",
+    "4": "1814",
+    "5": "When they at least half of the seats in the House of Commons",
+    "6": "1905",
+    "7": "Every citizen over the age of 18",
+    "8": "Appointed on the Prime Minister's recommendation",
+    "9": "338",
+    "10": "Third Monday in October every 4years\nfollowing the most recent general election"
+  }
+]

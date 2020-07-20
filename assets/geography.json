@@ -1,0 +1,88 @@
+[
+    {
+        "1": "Which of these is the national animal of Canada\nas seen on the five-cent coin?",
+        "2": "What do we celebrate on 'Canada Day'?",
+        "3": "Who are the Acadians?",
+        "4": "The only officially bilingual province is?",
+        "5": "What did the 'Head Tax' represent?",
+        "6": "What is the meaning of women's suffrage movement?",
+        "7": "The smallest province known for its beaches,\nred soil and connected to\nmainland Canada by one of the longest\ncontinous multispan bridges in the world is ..?",
+        "8": "Which province has 40% arable land and once known as\n'breadbasket of the world'?",
+        "9": "These parts of Canada are popular for having the sun disappear and having\ncontinuous darkness for 3 months in winter\n also experience 24 hours daylight in the height of summer except?",
+        "10": "Which of these groups travel from\nResolute to the Magnetic North Pole\nto keep flag flying in Canada's Arctic"
+    },
+    {
+        "1": {
+            "a": "Polar bear",
+            "b": "Beaver",
+            "c": "Caribou",
+            "d": "Bison"
+        },
+        "2": {
+            "a": "Remembrance Day",
+            "b": "Armed Forces Day",
+            "c": "Queen Victoria's Birthday",
+            "d": "Independence Day"
+        },
+        "3": {
+            "a": "The descendants of French colonists who began\nsettling in what are now the Maritime provinces in 1604",
+            "b": "The first travellers from Europe to North America",
+            "c": "The Aboriginal People of Canada",
+            "d": "The French voyagers"
+        },
+        "4": {
+            "a": "Quebec",
+            "b": "New Brunswick",
+            "c": "Manitoba",
+            "d": "Ontario"
+        },
+        "5": {
+            "a": "Sales Tax",
+            "b": "Race-based entry fee for Chinese railway workers",
+            "c": "Tax paid by men for getting a haircut",
+            "d": "Entry fee for new immigrants to Canada"
+        },
+        "6": {
+            "a": "A movement to stop the domestic violence against women",
+            "b": "The effort by women to allow them join the army",
+            "c": "The effort by women to achieve the right to vote",
+            "d": "A movement for equal rights"
+        },
+        "7": {
+            "a": "Nunavut",
+            "b": "Prince Edward Island",
+            "c": "Saskatchewan",
+            "d": "British Columbia"
+        },
+        "8": {
+            "a": "New Brunswick",
+            "b": "British Columbia",
+            "c": "Saskatchewan",
+            "d": "Manitoba"
+        },
+        "9": {
+            "a": "Alberta",
+            "b": "Nunavut",
+            "c": "Yukon",
+            "d": "Northwest Territories"
+        },
+        "10": {
+            "a": "The Air Force",
+            "b": "The Navy",
+            "c": "Royal Canadian Mobile Police (RCMP)",
+            "d": "The Canadian Rangers"
+        }
+    },
+    {
+        "1": "Beaver",
+        "2": "Independence Day",
+        "3": "The descendants of French colonists who began\nsettling in what are now the Maritime provinces in 1604",
+        "4": "New Brunswick",
+        "5": "Race-based entry fee for Chinese railway workers",
+        "6": "The effort by women to achieve the right to vote",
+        "7": "Prince Edward Island",
+        "8": "Saskatchewan",
+        "9": "Alberta",
+        "10": "The Canadian Rangers"
+    }
+]
