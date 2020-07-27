@@ -16,15 +16,15 @@ class _homepageState extends State<homepage> {
     "images/canadian_dollar.png",
   ];
 
-  List<String> des = [
-    "Test Your Knowledge",
-    "Click to Test Yourself",
-    "Click to Test Your Knowledge",
-    "Click to Test Your Knowledge",
-    "Click to Test Your Knowledge",
-  ];
+//  List<String> des = [
+//    "Testing A",
+//    "Testing B",
+//    "Testing C",
+//    "Testing D",
+//    "Testing E",
+//  ];
 
-  Widget customcard(String sectionname, String image, String des) {
+  Widget customcard(String sectionname, String image) {
     return Padding(
       padding: EdgeInsets.symmetric(
         vertical: 10.0,
@@ -41,7 +41,7 @@ class _homepageState extends State<homepage> {
         },
         child: Material(
           color: Colors.redAccent,
-          elevation: 15.0,
+          elevation: 10.0,
           borderRadius: BorderRadius.circular(25.0),
           child: Container(
             child: Column(
@@ -51,7 +51,7 @@ class _homepageState extends State<homepage> {
                     vertical: 5.0,
                   ),
                   child: Material(
-                    elevation: 10.0,
+                    elevation: 15.0,
                     borderRadius: BorderRadius.circular(100.0),
                     child: Container(
                       // changing from 200 to 150 as to look better
@@ -79,18 +79,18 @@ class _homepageState extends State<homepage> {
                     ),
                   ),
                 ),
-                Container(
-                  padding: EdgeInsets.all(22.0),
-                  child: Text(
-                    des,
-                    style: TextStyle(
-                        fontSize: 18.0,
-                        color: Colors.white,
-                        fontFamily: "Alike"),
-                    maxLines: 5,
-                    textAlign: TextAlign.justify,
-                  ),
-                ),
+//                Container(
+//                  padding: EdgeInsets.all(22.0),
+//                  child: Text(
+//                    des,
+//                    style: TextStyle(
+//                        fontSize: 18.0,
+//                        color: Colors.white,
+//                        fontFamily: "Alike"),
+//                    maxLines: 5,
+//                    textAlign: TextAlign.justify,
+//                  ),
+//                ),
               ],
             ),
           ),
@@ -115,11 +115,11 @@ class _homepageState extends State<homepage> {
       ),
       body: ListView(
         children: <Widget>[
-          customcard("Rights & Responsibilities", images[0], des[0]),
-          customcard("Government & Elections", images[1], des[1]),
-          customcard("History & Geography", images[2], des[2]),
-          customcard("Justice System", images[3], des[3]),
-          customcard("Economy & Modern Canada", images[4], des[4]),
+          customcard("Rights & Responsibilities", images[0]),
+          customcard("Government & Elections", images[1]),
+          customcard("History & Geography", images[2]),
+          customcard("Justice System", images[3]),
+          customcard("Economy & Modern Canada", images[4]),
         ],
       ),
     );

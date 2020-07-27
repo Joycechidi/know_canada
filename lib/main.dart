@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:know_canada/splash.dart';
-//import 'dart:async';
 
 void main() => runApp(MyApp());
 

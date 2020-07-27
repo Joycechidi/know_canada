@@ -20,17 +20,17 @@ class _resultpageState extends State<resultpage> {
 
   @override
   void initState() {
-    if (marks < 20) {
+    if (marks <= 50) {
       image = images[2];
-      message = "Try Again!\n" + "You Scored $marks%";
-    } else if (marks < 35) {
+      message = "You Scored $marks%\n" +
+          "Learn more from Discover Canada:\nhttps://bit.ly/39xg9pT";
+    } else if (marks <= 80) {
       image = images[1];
-      message = "You're Getting There..\n" +
-          "Learn more from Discover Canada here\nhttps://www.canada.ca/content/dam/ircc/migration/ircc/english/pdf/pub/discover-large.pdf" +
-          "You Scored $marks%";
+      message = "You Scored $marks%\n" +
+          "Learn more from Discover Canada:\nhttps://bit.ly/39xg9pT\n";
     } else {
       image = images[0];
-      message = "You're a True Canadian!\n" + "You Scored $marks%";
+      message = "You Scored $marks%\n" + "You're a True Canadian!\n";
     }
     super.initState();
   }
@@ -79,7 +79,7 @@ class _resultpageState extends State<resultpage> {
                           child: Text(
                             message,
                             style: TextStyle(
-                              fontSize: 18.0,
+                              fontSize: 15.0,
                               fontFamily: "Quando",
                             ),
                           ),

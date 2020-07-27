@@ -15,6 +15,7 @@ class getjson extends StatelessWidget {
   // a function
   // sets the asset to a particular JSON file
   // and opens the JSON
+
   setasset() {
     if (sectionname == "Rights and Responsibilities") {
       assettoload = "assets/rights.json";
@@ -32,12 +33,12 @@ class getjson extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     // this function is called before the build so that
-    // the string assettoload is avialable to the DefaultAssetBuilder
+    // the string assettoload is available to the DefaultAssetBuilder
     setasset();
     // and now we return the FutureBuilder to load and decode JSON
     return FutureBuilder(
       future:
-          DefaultAssetBundle.of(context).loadString(assettoload, cache: true),
+          DefaultAssetBundle.of(context).loadString(assettoload, cache: false),
       builder: (context, snapshot) {
         List mydata = json.decode(snapshot.data.toString());
         if (mydata == null) {
@@ -163,19 +164,11 @@ class _quizpageState extends State<quizpage> {
   }
 
   void checkanswer(String k) {
-    // in the previous version this was
-    // mydata[2]["1"] == mydata[1]["1"][k]
-    // which i forgot to change
-    // so make sure that this is now corrected
     if (mydata[2][i.toString()] == mydata[1][i.toString()][k]) {
-      // just a print sattement to check the correct working
-      // debugPrint(mydata[2][i.toString()] + " is equal to " + mydata[1][i.toString()][k]);
-      marks = marks * 1;
+      marks = marks + 10;
       // changing the color variable to be green
       colortoshow = right;
     } else {
-      // just a print statement to check the correct working
-      // debugPrint(mydata[2]["1"] + " is equal to " + mydata[1]["1"][k]);
       colortoshow = wrong;
     }
     setState(() {
@@ -186,7 +179,7 @@ class _quizpageState extends State<quizpage> {
     });
 
     // changed timer duration to 1 second
-    Timer(Duration(seconds: 1), nextquestion);
+    Timer(Duration(seconds: 2), nextquestion);
   }
 
   Widget choicebutton(String k) {
@@ -207,8 +200,8 @@ class _quizpageState extends State<quizpage> {
           maxLines: 3,
         ),
         color: btncolor[k],
-        splashColor: Colors.indigo[700],
-        highlightColor: Colors.indigo[700],
+        splashColor: Colors.blueGrey[700],
+        highlightColor: Colors.blueGrey[700],
         minWidth: 200.0,
         height: 45.0,
         shape:

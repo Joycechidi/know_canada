@@ -35,7 +35,7 @@ class _splashscreenState extends State<splashscreen> {
                       fit: BoxFit.cover)),
               child: Center(
                 child: Text(
-                  'How Much Do You Know About Canada? Test Yourself!',
+                  'How Much Do You\nKnow About Canada?',
                   textAlign: TextAlign.center,
                   style: TextStyle(
                       color: Colors.black,
